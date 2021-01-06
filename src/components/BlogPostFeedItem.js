@@ -11,7 +11,7 @@ export default class BlogPostFeedItem extends React.Component {
         let post = _.get(this.props, 'post_page', null);
         return (
             <article className="cell">
-            <h1></h1>
+            <h1> </h1>
               <div className="card">
                 {_.get(post, 'frontmatter.image', null) && (
                 <Link className="card__media card__media--top" href={withPrefix(_.get(post, '__metadata.urlPath', null))}>
