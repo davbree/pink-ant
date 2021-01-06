@@ -10,6 +10,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+        moo: yes
       - label: Contact Us
         url: /contact
         style: secondary
