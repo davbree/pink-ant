@@ -525,6 +525,8 @@ models:
         label: URL
         required: true
         widget: url
+      - type: string
+      
       - type: enum
         name: style
         label: Style
