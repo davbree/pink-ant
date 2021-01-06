@@ -55,7 +55,7 @@ models:
         name: header
         label: Header Configuration
         models:
-          - header
+        - header
       - type: model
         name: footer
         label: Footer Configuration
