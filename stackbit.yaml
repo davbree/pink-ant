@@ -527,6 +527,7 @@ models:
         widget: url
       - type: string
         name: moo
+        label: Moo
       - type: enum
         name: style
         label: Style
