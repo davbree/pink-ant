@@ -8,7 +8,7 @@ sourcebit.fetch(sourcebitConfig);
 
 module.exports = {
     trailingSlash: true,
-    devIndicators: {
+    devIndicators: 
         autoPrerender: false
     },
     sassOptions: {
