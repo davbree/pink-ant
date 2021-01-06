@@ -526,7 +526,7 @@ models:
         required: true
         widget: url
       - type: string
-        name: 
+        name: moo
       - type: enum
         name: style
         label: Style
